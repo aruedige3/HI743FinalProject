@@ -1,0 +1,7 @@
+pandas
+datetime
+tkinter
+os
+argparse
+random
+string
